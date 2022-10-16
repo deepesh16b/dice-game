@@ -1,0 +1,63 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  width: 40%;
+
+}
+
+body {
+  background-color: #393E46;
+  background-image: url("images/bg.jpg");
+  text-align: center;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  color: #39f568;
+}
+.result{
+  font-size: 6rem;
+}
+p {
+  font-size: 2rem;
+  color: #39f568;
+  font-family: 'Indie Flower', cursive;
+}
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+img{
+  width: 40%;
+  display: inline-block;
+}
+a{
+  text-decoration: none;
+  text-align: center;
+  color:#39f568 ;
+}
+button{
+  border-radius: 15%;
+  border-color:gray;
+  background-color: #39f568;
+  font-size: 1.2rem;
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+  padding: 10px;
+}
+button:hover{
+  background-color: #030303;
+  color:#39f568 ;
+}
