@@ -1,5 +1,5 @@
-# dice-game
+# Dice Game
 
-## Made with HTML, CSS & JavaScript!
+### Made with HTML, CSS & JavaScript!
 
-### Website: https://deepesh16b.github.io/dice-game
+#### Website: https://deepesh16b.github.io/dice-game
